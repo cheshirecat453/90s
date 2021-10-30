@@ -295,6 +295,177 @@
         "name": "invisible platform.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "plataforma_madera.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "plataforma_madera.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "plataforma_madera2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "plataforma_madera2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "plataforma_madera_vertical.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "plataforma_madera_vertical.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "421-4216565_freetoedit-message-computer-edit-paint-retro-retro-aesthetic.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "421-4216565_freetoedit-message-computer-edit-paint-retro-retro-aesthetic.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FondoEstante.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "FondoEstante.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rubik.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rubik.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rubik2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rubik2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rubik3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rubik3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rubik4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rubik4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rubik5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rubik5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rubik_pixel.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rubik_pixel.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "go_down.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "go_down.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "go_down2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "go_down2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "go_up.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "go_up.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "vhs1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "vhs1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "vhs2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "vhs2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "vhs3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "vhs3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "player sprite7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "player sprite7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "player sprite7-1.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "player sprite7-1.png.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -304,18 +475,18 @@
   "variables": [],
   "layouts": [
     {
-      "b": 15,
+      "b": 255,
       "disableInputWhenNotFocused": true,
       "mangledName": "Inicio",
       "name": "Inicio",
       "oglFOV": 90,
       "oglZFar": 500,
       "oglZNear": 1,
-      "r": 0,
+      "r": 255,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 0,
+      "v": 255,
       "uiSettings": {
         "grid": false,
         "gridType": "rectangular",
@@ -326,7 +497,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.39999999999999936,
+        "zoomFactor": 0.7199999999999993,
         "windowMask": false
       },
       "objectsGroups": [
@@ -350,9 +521,9 @@
           "name": "Player",
           "persistentUuid": "39c8eb28-d3c1-48cc-8fab-b5b32609ca48",
           "width": 0,
-          "x": 221,
-          "y": 266,
-          "zOrder": 3,
+          "x": 180,
+          "y": 241,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -360,14 +531,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 17,
+          "height": 31,
           "layer": "",
           "locked": false,
-          "name": "GrassPlatform",
+          "name": "PlatformaEstante",
           "persistentUuid": "879d43ed-da3e-4fdc-bc9b-68bd915a416d",
           "width": 189,
           "x": 768,
-          "y": 446,
+          "y": 437,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -379,11 +550,11 @@
           "height": 1094,
           "layer": "",
           "locked": false,
-          "name": "NewObject",
+          "name": "Estante",
           "persistentUuid": "197e3aa6-6b3f-4a19-8763-36bef913bea4",
-          "width": 2336,
-          "x": -404,
-          "y": -75,
+          "width": 2111,
+          "x": -208,
+          "y": -87,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -392,14 +563,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 16,
+          "height": 21,
           "layer": "",
           "locked": false,
-          "name": "GrassPlatform",
+          "name": "PlatformaEstante",
           "persistentUuid": "0729de7a-cd49-4ae1-b50c-92c146c002ee",
           "width": 463,
           "x": 987,
-          "y": 276,
+          "y": 275,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -411,10 +582,10 @@
           "height": 22,
           "layer": "",
           "locked": false,
-          "name": "GrassPlatform",
+          "name": "PlatformaEstante",
           "persistentUuid": "7378864f-1303-4f96-bb79-b37a7d2c26c0",
-          "width": 1989,
-          "x": -125,
+          "width": 1995,
+          "x": -130,
           "y": 966,
           "zOrder": 8,
           "numberProperties": [],
@@ -424,58 +595,10 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 1033,
+          "height": 23,
           "layer": "",
           "locked": false,
-          "name": "GrassPlatform",
-          "persistentUuid": "2ef483ea-5f27-4055-9174-eeae2c88962b",
-          "width": 22,
-          "x": -130,
-          "y": -70,
-          "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 689,
-          "layer": "",
-          "locked": false,
-          "name": "GrassPlatform",
-          "persistentUuid": "6f24b6cb-f1fc-49f6-9624-23a604d7fedb",
-          "width": 30,
-          "x": 956,
-          "y": 276,
-          "zOrder": 10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 1041,
-          "layer": "",
-          "locked": false,
-          "name": "GrassPlatform",
-          "persistentUuid": "5f04c1c6-af7f-4277-b64f-4e29f258c92b",
-          "width": 22,
-          "x": 1844,
-          "y": -56,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 21,
-          "layer": "",
-          "locked": false,
-          "name": "GrassPlatform",
+          "name": "PlatformaEstante",
           "persistentUuid": "5377750e-7d5a-463c-8663-242fe5832b5b",
           "width": 186,
           "x": 1660,
@@ -488,30 +611,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 114,
+          "height": 28,
           "layer": "",
           "locked": false,
-          "name": "GrassPlatform",
-          "persistentUuid": "8bf1decc-cbc2-4383-ae7a-902c92c70058",
-          "width": 27,
-          "x": 954,
-          "y": -60,
-          "zOrder": 13,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 21,
-          "layer": "",
-          "locked": false,
-          "name": "GrassPlatform",
+          "name": "PlatformaEstante",
           "persistentUuid": "f8e680d1-2e86-4ad9-b968-16c151c6742e",
-          "width": 689,
+          "width": 676,
           "x": -108,
-          "y": 442,
+          "y": 437,
           "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
@@ -520,15 +627,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 27,
+          "height": 1060,
           "layer": "",
           "locked": false,
-          "name": "JumpTru",
-          "persistentUuid": "cc7199a2-9135-4b7c-8aa2-41526be17f01",
-          "width": 178,
-          "x": 382,
-          "y": 337,
-          "zOrder": 15,
+          "name": "ParedEestante",
+          "persistentUuid": "817fe551-41ea-4b17-8296-c27fff353f67",
+          "width": 26,
+          "x": -133,
+          "y": -73,
+          "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -536,15 +643,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 27,
+          "height": 1043,
           "layer": "",
           "locked": false,
-          "name": "JumpTru",
-          "persistentUuid": "c2c42793-0289-4fd8-a447-bf0837a25a33",
-          "width": 178,
-          "x": 679,
-          "y": 296,
-          "zOrder": 16,
+          "name": "ParedEestante",
+          "persistentUuid": "eac0ae14-b0a5-44b2-890a-12d5684f14cc",
+          "width": 28,
+          "x": 1838,
+          "y": -57,
+          "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -552,15 +659,111 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 27,
+          "height": 830,
           "layer": "",
           "locked": false,
-          "name": "JumpTru",
-          "persistentUuid": "fb300e82-d77f-4ade-ad80-6aecb45586c5",
-          "width": 215,
-          "x": 1272,
-          "y": 874,
-          "zOrder": 17,
+          "name": "ParedEestante",
+          "persistentUuid": "66a95a6b-1093-4f18-8f8f-5823ac442c38",
+          "width": 31,
+          "x": 954,
+          "y": 138,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1672,
+          "layer": "",
+          "locked": false,
+          "name": "FondoEscritorio",
+          "persistentUuid": "50c6e2fd-e28a-477b-a785-fd0a3dba6d7c",
+          "width": 2593,
+          "x": -562,
+          "y": -318,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 138,
+          "layer": "",
+          "locked": false,
+          "name": "CuboRubik",
+          "persistentUuid": "f829549c-7974-4bc7-a104-197cd922fdd5",
+          "width": 141,
+          "x": 604,
+          "y": 723,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 42,
+          "layer": "",
+          "locked": false,
+          "name": "GoDown",
+          "persistentUuid": "b690ea14-04b0-42e9-a3f2-4b60aecbe679",
+          "width": 45,
+          "x": 647,
+          "y": 409,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 42,
+          "layer": "",
+          "locked": false,
+          "name": "GoUp",
+          "persistentUuid": "d59cdec1-b45b-4fad-9763-8cb996f79c46",
+          "width": 43,
+          "x": 648,
+          "y": 925,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 50,
+          "layer": "",
+          "locked": false,
+          "name": "VHS2",
+          "persistentUuid": "25efccbd-e114-4032-8e59-cba079ad83bd",
+          "width": 366,
+          "x": 457,
+          "y": 239,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "locked": false,
+          "name": "VHS3",
+          "persistentUuid": "de591032-533e-4953-9979-64117e7b5e90",
+          "width": 352,
+          "x": 1254,
+          "y": 784,
+          "zOrder": 24,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -612,10 +815,18 @@
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "JumpCount",
+              "type": "string",
+              "value": ""
+            }
+          ],
           "effects": [],
           "behaviors": [
             {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
               "canGrabPlatforms": false,
               "deceleration": 1500,
@@ -626,10 +837,8 @@
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 700,
               "maxSpeed": 250,
-              "name": "PlatformerObject",
               "roundCoordinates": true,
               "slopeMaxAngle": 60,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "xGrabTolerance": 10,
               "yGrabOffset": 0
             }
@@ -755,14 +964,78 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "Punch",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "player sprite7-1.png.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
           "height": 32,
-          "name": "GrassPlatform",
+          "name": "PlatformaEstante",
           "tags": "",
-          "texture": "invisible platform.png",
+          "texture": "plataforma_madera2.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "Estante",
+          "rightMargin": 0,
+          "tags": "",
+          "texture": "FondoEstante.jpg",
+          "tiled": true,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "height": 32,
+          "name": "ParedEestante",
+          "tags": "",
+          "texture": "plataforma_madera_vertical.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
@@ -778,13 +1051,59 @@
           ]
         },
         {
-          "height": 32,
-          "name": "JumpTru",
+          "name": "FondoEscritorio",
           "tags": "",
-          "texture": "bridgeLogs.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
+          "type": "Sprite",
+          "updateIfNotVisible": false,
           "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "421-4216565_freetoedit-message-computer-edit-paint-retro-retro-aesthetic.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "height": 64,
+          "name": "CuboRubik",
+          "tags": "",
+          "texture": "rubik_pixel.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 64,
+          "variables": [
+            {
+              "name": "Direction",
+              "type": "string",
+              "value": ""
+            }
+          ],
           "effects": [],
           "behaviors": [
             {
@@ -797,20 +1116,238 @@
           ]
         },
         {
-          "bottomMargin": 0,
-          "height": 32,
-          "leftMargin": 0,
-          "name": "NewObject",
-          "rightMargin": 0,
+          "name": "GoDown",
           "tags": "",
-          "texture": "primary3ADownload2F1635391490990_eightbit.jpg",
-          "tiled": true,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 32,
+          "type": "Sprite",
+          "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": []
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "go_down.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "GoUp",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "go_up.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "VHS1",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "Jumpthru",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "vhs1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "VHS2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "Jumpthru",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "vhs2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "VHS3",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "Jumpthru",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "vhs3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": []
         }
       ],
       "events": [
@@ -1023,8 +1560,389 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::IsJumping"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                }
+              ]
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Space"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Player",
+                "JumpCount",
+                "<",
+                "2"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::SetCanJump"
+              },
+              "parameters": [
+                "Player",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "JumpCount",
+                "+",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "Player",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "JumpCount",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "JumpCount",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "CuboRubik",
+                "Direction",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "GoDown"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "GoUp"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": false,
+          "name": "Rubik",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "CuboRubik",
+                    "Direction",
+                    "=",
+                    "1"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "AddForceAL"
+                  },
+                  "parameters": [
+                    "CuboRubik",
+                    "-90",
+                    "150",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "CuboRubik",
+                    "Direction",
+                    "=",
+                    "2"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "AddForceAL"
+                  },
+                  "parameters": [
+                    "CuboRubik",
+                    "90",
+                    "150",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "CuboRubik",
+                    "GoDown",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "CuboRubik",
+                    "Direction",
+                    "=",
+                    "2"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "CuboRubik",
+                    "GoUp",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "CuboRubik",
+                    "Direction",
+                    "=",
+                    "1"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "x"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Player",
+                "\"Punch\""
+              ],
+              "subInstructions": []
+            }
+          ],
           "events": []
         }
       ],
